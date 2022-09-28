@@ -10,4 +10,4 @@ Program that works as editor of images. The program follows the following steps:
 
 * _The possibility to change the image to a B&W version is given;_
 
-* _The updated image is saved in a new directory, called "Image_name"_modified, under the name "File_name"X (where X is a sequential number)._
+* _The updated image is saved in a new directory, called "Image name"_modified, under the name "File name"X (where X is a sequential number)._
