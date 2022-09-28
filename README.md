@@ -1,13 +1,13 @@
 ## Image editor
 
-Program that works as editor of images. The program follows the folloing steps:
+Program that works as editor of images. The program follows the following steps:
 
-* _it asks to the user the .jpg/.png image path, showing if it does not exist;_
+* _The path of a .jpg/.png image must be given (an error is reaised if it does not exist);_
 
-* _if the path exists it prints the name, extension and resolution of the image;_
+* _If the path exists the image name, extension and resolution are printed;_
 
-* _it gives the possibility to change resolution, mantaining or changing the inital ratio width-height;_
+* _Image resolution can be modified, mantaining or changing the inital width-height ratio;_
 
-* _it allows to save the image colored or B&W;_
+* _The possibility to change the image to a B&W version is given;_
 
-* _it saves the new image in a new directory with a swquential name._
+* _The updated image is saved in a new directory, called "Image_name"_modified, under the name "File_name"X (where X is a sequential number)._
