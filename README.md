@@ -1,4 +1,4 @@
-## Image editor
+## Image Editor
 
 Program that works as editor of images. The program follows the following steps:
 
