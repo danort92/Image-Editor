@@ -8,6 +8,6 @@ Program that works as editor of images. The program follow the folloing steps:
 
 * _it gives the possibility to change resolution, mantaining or changing the inital ratio width-height;_
 
-* _it allows to save the image colored or B&W;#_
+* _it allows to save the image colored or B&W;_
 
 * _it saves the new image in a new directory with a swquential name._
