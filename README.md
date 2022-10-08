@@ -1,6 +1,6 @@
 ## Image Editor
 
-Program that works as editor of images. The program follows the following steps:
+Program that works as editor of images. The program follows these steps:
 
 * _The path of a .jpg/.png image must be given (an error is reaised if it does not exist);_
 
